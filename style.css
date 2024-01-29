@@ -251,19 +251,19 @@ header {
 .ex-card-img1 {
   background: black;
   background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)),
-    url(/Images/portfolio-website.png);
+    url(Images/portfolio-website.png);
   background-size: cover;
 }
 .ex-card-img2 {
   background: black;
   background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)),
-    url(/Images/portfolio-logo.png);
+    url(Images/portfolio-logo.png);
   background-size: cover;
 }
 .ex-card-img3 {
   background: black;
   background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)),
-    url(/Images/portfolio-ad.png);
+    url(Images/portfolio-ad.png);
   background-size: cover;
 }
 
@@ -271,7 +271,7 @@ header {
 .examples-card:nth-child(4) {
   background: black;
   background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)),
-    url(/Images/portfolio-thumb.png);
+    url(Images/portfolio-thumb.png);
   background-size: cover;
 }
 
